@@ -5,4 +5,4 @@ def add(a,b):
     
 # Exercise 2: implements function 'mul', that multiplies two numbers
 def mul(a,b):
-    return a*b
+    return a+b
